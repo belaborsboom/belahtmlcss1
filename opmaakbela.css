@@ -1,0 +1,18 @@
+body{
+  background-image: url(https://belaborsboom.github.io/HTML-CSS-0/250px-Steve_Wozniak_2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ff913d;
+}
+a{
+  color: green;
+}
+h1{
+  color: #0077ff;
+}
+h2{
+  color: #0077ff;
+}
+h3{
+  color: #0077ff;
+}
