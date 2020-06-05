@@ -12,6 +12,7 @@ h1, h2, h3{
 ul{
   float: center;
   list-style: none;
+  display: flex;
 }
 .nietcurrent{
   color: #EDF5E1;
