@@ -12,30 +12,38 @@ h1, h2, h3{
   color: #0077ff;
 }
 ul{
-  list-style: none;
-  display: flex;
+   list-style: none;
+   display: flex;
 }
+.block{
+  display: block;
+  width: 170px;
+  height: 40px;
+  margin-top: 10px;
+}
+
 .nietcurrent{
   color: #EDF5E1;
   text-decoration: none;
-  padding: 10px 60px 10px 60px;
   background-color: #5CDB95;
   color: #05386B;
   text-align: center;
-  height: 20px;
+  height: 40px;
   border-radius: 10px;
-  width: 50px;
+  width: 170px;
+  margin-right: 5px;
 }
 .current{
   color: #EDF5E1;
   text-decoration: none;
-  padding: 10px 60px 10px 60px;
   background-color: #5CDB95;
+  padding: 10px 60px 10px 60px;
   color: #05386B;
   text-align: center;
   height: 20px;
   border-radius: 10px;
   width: 50px;
+  margin-right: 5px;
 }
 ul li:hover{
   box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
